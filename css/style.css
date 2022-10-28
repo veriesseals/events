@@ -1,0 +1,21 @@
+* {
+    outline: 1px dotted red;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.form {
+    background-color: whitesmoke;
+    padding: 15px;
+}
+
+h1{
+    color: whitesmoke;
+    font-family: 'Noto Sans Vai', sans-serif;
+}
+
+.name-div {
+    font-weight: bold;
+}
